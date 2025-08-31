@@ -1,0 +1,31 @@
+Location,pass_type,Kid (1-5),Child (6-12),junior (13-17),adult (18-64),senior (>65)
+Thredbo,Weekday,0,113.00,121.00,209.00,121.00
+Thredbo,Weekend,0,103.00,111.00,203.00,111.00
+Thredbo,Two day pass,0,202.00,212.00,382.00,212.00
+Thredbo,Week Pass,0,609.00,630.00,1099.00,630.00
+Perisher,Weekday,0,141.00,256.00,256.00,205.00
+Perisher,Weekend,0,132.00,264.00,264.00,211.00
+Perisher,Half Day,0,106.00,192.00,192.00,154.00
+Perisher,Two day pass,0,283.00,515.00,515.00,412.00
+Perisher,Week Pass,0,975.00,1773.00,1773.00,1418.00
+Mt. Buller,Weekday,0,76.00,76.00,126.00,94.00
+Mt. Buller,Weekend,0,76.00,76.00,126.00,94.00
+Mt. Buller,Half Day,0,59.00,59.00,98.00,73.00
+Mt. Buller,Two day pass,0,152.00,152.00,252.00,188.00
+Mt. Buller,Week Pass,0,344.00,344.00,573.00,429.00
+Falls Creek,Weekday,0,97.00,97.00,177.00,142.00
+Falls Creek,Weekend,0,97.00,97.00,177.00,142.00
+Falls Creek,Two day pass,0,183.00,183.00,333.00,266.00
+Falls Creek,Week Pass,0,596.00,596.00,1083.00,742.00
+Mt. Hotham,Weekday,0,102.00,102.00,186.00,149.00
+Mt. Hotham,Weekend,0,97.00,97.00,177.00,142.00
+Mt. Hotham,Half Day,0,101.00,101.00,182.00,146.00
+Mt. Hotham,Two day pass,0,183.00,183.00,333.00,266.00
+Mt. Hotham,Week Pass,0,596.00,596.00,1083.00,866.00
+Mt. Baw Baw,Weekday,0,48,48,79,79
+Selwyn,Weekday,35.00,95.00,95.00,119.00,95.00
+Selwyn,Two day pass,70.00,190.00,190.00,238.00,190.00
+Selwyn,Week Pass,245.00,655.00,655.00,833.00,665.00
+Charlotte,Weekday,10.00,114.00,114.00,175.00,153.00
+Charlotte,Two day pass,15.00,207.00,207.00,328.00,284.00
+Charlotte,Week Pass,40.00,581.00,581.00,1004.00,850.00
