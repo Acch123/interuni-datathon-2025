@@ -1,4 +1,4 @@
-# 🏂 Australian Ski Resort Visitor Prediction Model
+# 🏂 Australian Ski Resort Visitor Prediction Model (Third place in Interuni-Datathon)
 
 ## 📋 **Project Overview**
 Machine learning model that predicts visitor patterns at Australian ski resorts using Random Forest regression. Analyzes 8 resorts with 72% accuracy to identify optimal timing and resort selection.
